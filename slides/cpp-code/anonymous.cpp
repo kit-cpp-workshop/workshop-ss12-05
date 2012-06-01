@@ -1,5 +1,6 @@
 void foo() {
-	union {
+	union /*no-name*/
+	{
 		int a;
 		long b;
 	};
@@ -9,10 +10,12 @@ void foo() {
 }
 
 void bar() {
-	union {
+	union MyUnion
+	{
 		int a;
 		long b;
-	} wuppdi;
+	};
+	MyUnion wuppdi;
 	
 	wuppdi.a = 23;
 	wuppdi.b = 21 * 2;
