@@ -1,4 +1,4 @@
-﻿enum MyEnum { MY_CONST_0, A, B, C };
+enum MyEnum { MY_CONST_0, A, B, C };
 
 MyEnum myVar;
 
