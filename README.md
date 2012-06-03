@@ -12,7 +12,7 @@ Die Vortragsfolien stehen als [PDF](https://github.com/downloads/kit-cpp-worksho
 
 ### Screencast
 
-Eine Aufzeichnung des Vortrags steht zum [Download](http://ubuntuone.com/61XUEn34xWFnKuJfMqQPPz) bereit.
+Eine Aufzeichnung des Vortrags steht zum [Download](http://ubuntuone.com/1rsjYFjJTLdKO7X1SscirZ) bereit.
 
  - ab 00:00 Intro/Begrüßung
  - ab 00:30 Enums
