@@ -8,7 +8,7 @@ Der Fokus liegt in diesem Workshop auf der Praxis, die bereits im vierten Teil b
 
 ### Folien zum Vortrag
 
-Die Vortragsfolien stehen als [PDF](https://github.com/downloads/kit-cpp-workshop/workshop-ss12-05/slides.pdf) zum Download bereit. Außerdem liegt der LaTeX-Quellcode zu den Folien im Ordner `slides`.
+Die Vortragsfolien stehen als [PDF](kit-cpp-workshop.github.com/raw/downloads/workshops/ss12-05/slides.pdf) zum Download bereit. Außerdem liegt der LaTeX-Quellcode zu den Folien im Ordner `slides`.
 
 ### Screencast
 
